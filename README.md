@@ -1,4 +1,3 @@
-```
 # Elfin-Wing v1 Flight Controller
 
 Elfin-Wing v1 is an open-source and self-made flight controller. [Elfin-Wing](https://github.com/suiaiyun/Elfin-Wing-FC.git)
@@ -62,4 +61,3 @@ firmware, using your favourite DFU loading tool.
 Once the initial firmware is loaded you can update the firmware using
 any ArduPilot ground station software. Updates should be done with the
 *.apj firmware files.
-```
